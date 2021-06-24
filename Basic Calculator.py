@@ -1,3 +1,10 @@
+# Author:
+# Agyeya Mishra
+# Department of Civil Engineering
+# Delhi Technological University (formerly, Delhi College of Engineering)
+# New Delhi, India
+
+
 #Python program to create a simple calculator 
   
 #Function to perform addition of two numbers
