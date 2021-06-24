@@ -27,3 +27,9 @@ Create a simple calculator which can perform basic arithmetic operations like ad
 - User may choose the desired operation. Options 1, 2, 3 and 4 will be considered valid.
 - Two numbers are taken as input and an if…elif…else branching is used to execute a particular section.
 - Using functions add(), subtract(), multiply() and divide(), we evaluate respective operations.
+
+### Takeaways:
+
+- Understanding of Python Functions
+- Understanding of Python Functions Arguments
+- Understanding User-defined Functions
